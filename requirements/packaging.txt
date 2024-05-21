@@ -6,3 +6,4 @@ twine==1.5.0
 
 # Babel for messages.po localization compilation
 babel==2.9.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
